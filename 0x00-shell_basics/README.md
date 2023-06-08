@@ -1,1 +1,1 @@
-display contents in long format
+display contents including hidden files using long format
